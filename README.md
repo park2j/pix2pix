@@ -3,5 +3,5 @@
 dataset : https://people.eecs.berkeley.edu/~tinghuiz/projects/pix2pix/datasets/
 
 
-result
+result :
 <img src = '998.jpg' >
